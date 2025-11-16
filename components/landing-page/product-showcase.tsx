@@ -4,19 +4,19 @@ export default function ProductShowcase() {
       id: 1,
       name: "Aquess Zenya 4",
       description: "Advanced hydrotherapy",
-      image: "/modern-luxury-hot-tub-design.jpg",
+      image: "./modern-luxury-hot-tub-design.jpg",
     },
     {
       id: 2,
       name: "Aquess Zenya 3",
       description: "Compact elegance",
-      image: "/sleek-spa-tub-water.jpg",
+      image: "./sleek-spa-tub-water.jpg",
     },
     {
       id: 3,
       name: "Aquess Zenya 6",
       description: "Supreme 6-seat luxury configuration",
-      image: "/premium-spa-jets-bubbles.jpg",
+      image: "./premium-spa-jets-bubbles.jpg",
     },
   ]
 

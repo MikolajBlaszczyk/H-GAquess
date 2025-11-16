@@ -95,7 +95,7 @@ const ProductSummary: React.FC<ProductSummaryProps> = ({ onBackHome }) => {
             {/* Image Placeholder */}
             <div className="relative h-96 md:h-[500px] bg-gradient-to-br from-neutral-900 to-neutral-800 rounded-lg overflow-hidden mb-8 border border-neutral-800 flex items-center justify-center">
               <img
-                src="/aquessLanding.jpg"
+                src="./aquessLanding.jpg"
                 alt="Aquess Zenya 3201 hot tub"
                 className="w-full h-full object-cover opacity-60"
               />
